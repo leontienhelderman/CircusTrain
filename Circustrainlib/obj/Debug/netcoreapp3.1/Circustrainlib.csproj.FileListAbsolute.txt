@@ -1,0 +1,38 @@
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.csprojAssemblyReference.cache
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib_MarkupCompile.cache
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib_MarkupCompile.lref
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.exe
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.deps.json
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.runtimeconfig.json
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.runtimeconfig.dev.json
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.dll
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.pdb
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.g.resources
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.csproj.CoreCompileInputs.cache
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.AssemblyInfoInputs.cache
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.AssemblyInfo.cs
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.dll
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.pdb
+D:\Fontys\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.genruntimeconfig.cache
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.exe
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.deps.json
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.runtimeconfig.json
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.runtimeconfig.dev.json
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.dll
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\bin\Debug\netcoreapp3.1\Circustrainlib.pdb
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.csprojAssemblyReference.cache
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib_MarkupCompile.cache
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib_MarkupCompile.lref
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.g.resources
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.csproj.CoreCompileInputs.cache
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.AssemblyInfoInputs.cache
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.AssemblyInfo.cs
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.dll
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.pdb
+D:\Drive\School\Fontys\Year 1\S2\repos\CircusTrain\Circustrainlib\obj\Debug\netcoreapp3.1\Circustrainlib.genruntimeconfig.cache
